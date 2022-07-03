@@ -1,0 +1,63 @@
+﻿  Cpp_practice_7-4.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(158,47): warning C4244: инициализация: преобразование "_Ty" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(245): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)"
+          with
+          [
+              _This=int,
+              _Ty=double,
+              _Other=double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(245): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)"
+          with
+          [
+              _This=int,
+              _Ty=double,
+              _Other=double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(245): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<int>::tuple<std::_Exact_args_t,_Ty,,0>(_Tag,_This2 &&)"
+          with
+          [
+              _Ty=double,
+              _Tag=std::_Exact_args_t,
+              _This2=double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(245): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<int>::tuple<std::_Exact_args_t,_Ty,,0>(_Tag,_This2 &&)"
+          with
+          [
+              _Ty=double,
+              _Tag=std::_Exact_args_t,
+              _This2=double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(327): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<std::string,int>::tuple<std::_Exact_args_t,std::string&,_Ty,0>(_Tag,_This2,_Ty &&)"
+          with
+          [
+              _Ty=double,
+              _Tag=std::_Exact_args_t,
+              _This2=std::string &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\tuple(327): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<std::string,int>::tuple<std::_Exact_args_t,std::string&,_Ty,0>(_Tag,_This2,_Ty &&)"
+          with
+          [
+              _Ty=double,
+              _Tag=std::_Exact_args_t,
+              _This2=std::string &
+          ]
+D:\Projects\ITMO.CppCourse\Cpp_practice_7-4\Cpp_practice_7-4.cpp(54): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<std::string,int>::tuple<std::string&,double,0>(_This2,double &&) noexcept(false)"
+          with
+          [
+              _This2=std::string &
+          ]
+D:\Projects\ITMO.CppCourse\Cpp_practice_7-4\Cpp_practice_7-4.cpp(54): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<std::string,int>::tuple<std::string&,double,0>(_This2,double &&) noexcept(false)"
+          with
+          [
+              _This2=std::string &
+          ]
+  Cpp_practice_7-4.vcxproj -> D:\Projects\ITMO.CppCourse\ITMO.CppLearning\x64\Debug\Cpp_practice_7-4.exe
