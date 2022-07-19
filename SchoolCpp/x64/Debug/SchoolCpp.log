@@ -1,0 +1,3 @@
+﻿  SchoolCpp.cpp
+D:\Projects\ITMO.CppCourse\SchoolCpp\student.h(19,1): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  SchoolCpp.vcxproj -> D:\Projects\ITMO.CppCourse\ITMO.CppLearning\x64\Debug\SchoolCpp.exe
