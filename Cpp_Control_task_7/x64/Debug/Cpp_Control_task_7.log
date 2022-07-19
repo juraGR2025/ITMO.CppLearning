@@ -1,0 +1,4 @@
+﻿  Cpp_Control_task_7.cpp
+D:\Projects\ITMO.CppCourse\Cpp_Control_task_7\Cpp_Control_task_7.cpp(56): warning C4715: Time::AddTime: значение возвращается не при всех путях выполнения
+D:\Projects\ITMO.CppCourse\Cpp_Control_task_7\Cpp_Control_task_7.cpp(84): warning C4715: Time::DiffTime: значение возвращается не при всех путях выполнения
+  Cpp_Control_task_7.vcxproj -> D:\Projects\ITMO.CppCourse\ITMO.CppLearning\x64\Debug\Cpp_Control_task_7.exe
