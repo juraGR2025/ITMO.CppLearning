@@ -1,0 +1,4 @@
+﻿  Cpp_test.cpp
+D:\Projects\ITMO.CppCourse\Cpp_test\Cpp_test.cpp(47): warning C4172: возвращение адреса локальной или временной переменной : sum_with_a_const
+D:\Projects\ITMO.CppCourse\Cpp_test\Cpp_test.cpp(40): warning C4172: возвращение адреса локальной или временной переменной : add_two_points
+  Cpp_test.vcxproj -> D:\Projects\ITMO.CppCourse\ITMO.CppLearning\x64\Debug\Cpp_test.exe
