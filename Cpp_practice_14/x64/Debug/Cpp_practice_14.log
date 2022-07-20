@@ -1,0 +1,12 @@
+﻿  Cpp_practice_14.cpp
+D:\Projects\ITMO.CppCourse\Cpp_practice_14\Cpp_practice_14.cpp(37,22): warning C4244: +=: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+D:\Projects\ITMO.CppCourse\Cpp_practice_14\Cpp_practice_14.cpp(74): message : выполняется компиляция ссылки на экземпляр шаблон функции "double average_value<double>(T [],int)"
+          with
+          [
+              T=double
+          ]
+  Cpp_practice_14.vcxproj -> D:\Projects\ITMO.CppCourse\ITMO.CppLearning\x64\Debug\Cpp_practice_14.exe
